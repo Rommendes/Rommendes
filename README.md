@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Rommendes
- - 👀 Estou interessado em em aprender a desenvolver sites.
- - 🌱 Atualmente estou aprendendo Html5.
+ - 👀 Estou interessado em aprender a desenvolver sites.
+ - 🌱 Atualmente estou aprendendo HTML5 e CSS3
  - 💞️ Estou buscando vencer minhas limitações.
  - 📫 Como chegar até mim @rosangelamendes5@hotmail.com; https://www.instagram.com/invites/contact/?i=m1v350l25x6c&utm_content=g6qen0 
 
