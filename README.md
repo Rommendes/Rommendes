@@ -1,5 +1,5 @@
 - 👋 Olá, sou @Rommendes
- - 👀 Desenvolvo sites.
+ - 👀 Dev júnior
  - 🌱  HTML5, CSS3, JavaScript...
  - 💞️ Fé + Ação = criação, superação,....
  - 📫 Como chegar até mim @rosangelamendes5@hotmail.com; https://www.instagram.com/invites/contact/?i=m1v350l25x6c&utm_content=g6qen0 
